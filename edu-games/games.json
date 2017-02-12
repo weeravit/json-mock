@@ -1,0 +1,48 @@
+{
+  "slides": [
+    {
+      "image_url": "https://randomuser.me/api/portraits/men/81.jpg",
+    },
+    {
+      "image_url": "https://randomuser.me/api/portraits/men/82.jpg",
+    },
+    {
+      "image_url": "https://randomuser.me/api/portraits/men/83.jpg",
+    },
+    {
+      "image_url": "https://randomuser.me/api/portraits/men/84.jpg",
+    },
+    {
+      "image_url": "https://randomuser.me/api/portraits/men/85.jpg",
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "image_url": "https://randomuser.me/api/portraits/men/81.jpg",
+      "game_link": "https://www.google.com/",
+      "name": "จับผิดภาพ 1 - ป5",
+      "ranking": "ด.ช.มาร์ก ซักเคอร์เบิร์ก",
+      "isFree": true,
+      "isPlayed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://randomuser.me/api/portraits/men/82.jpg",
+      "game_link": "https://www.google.com/",
+      "name": "จับผิดภาพ 2 - ป5",
+      "ranking": "ด.ช.มาร์ก ซักเคอร์เบิร์ก",
+      "isFree": false,
+      "isPlayed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://randomuser.me/api/portraits/men/83.jpg",
+      "game_link": "https://www.google.com/",
+      "name": "จับผิดภาพ 3 - ป5",
+      "ranking": "ด.ช.มาร์ก ซักเคอร์เบิร์ก",
+      "isFree": false,
+      "isPlayed": true
+    }
+  ]
+}
