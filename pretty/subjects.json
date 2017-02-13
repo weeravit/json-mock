@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image_url": "http://touchedition.s3.amazonaws.com/asset/55e91be8b11a42820c835811.png",
+    "image_url": "https://touchedition.s3.amazonaws.com/asset/55e91be8b11a42820c835811.png",
     "name": "MAXIM"
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "id": 3,
-    "image_url": "http://www.magazinedee.com/share/logomagazine/397.gif",
+    "image_url": "https://f2.jarm.com/news/00/1e/fl/1473068310_1.jpg",
     "name": "RUSH"
   },
   {
     "id": 4,
-    "image_url": "http://4.bp.blogspot.com/-qDm3PMSBizE/Uy7XbfLwdPI/AAAAAAAABzA/vSxGMp12xu8/s1600/Logo+Playboy.JPG",
+    "image_url": "https://www.magazinediscountcenter.com/uploads/images/full/3743823284f46c7512ee0a7b7a86c255.jpg",
     "name": "Playboy"
   },
   {
     "id": 5,
-    "image_url": "http://www.manager.co.th/Marsmag/images/mars-logo.png",
+    "image_url": "https://scontent.fbkk2-3.fna.fbcdn.net/v/t1.0-9/14650343_10153970275238803_8900606962615217734_n.jpg?oh=95669fb8dcf3ccdd8288cfd44f712689&oe=5932F64A",
     "name": "Mars"
   }
 ]
