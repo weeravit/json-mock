@@ -1,22 +1,27 @@
 [
   {
     "id": 1,
+    "image_url": "http://logonoid.com/images/maxim-logo.jpg",
     "name": "MAXIM Magazine"
   },
   {
     "id": 2,
+    "image_url": "https://d24j9r7lck9cin.cloudfront.net/l/f/3/3213.1407630809.png",
     "name": "FHM Magazine"
   },
   {
     "id": 3,
+    "image_url": "http://www.magazinedee.com/share/logomagazine/397.gif",
     "name": "RUSH Magazine"
   },
   {
     "id": 4,
+    "image_url": "http://4.bp.blogspot.com/-qDm3PMSBizE/Uy7XbfLwdPI/AAAAAAAABzA/vSxGMp12xu8/s1600/Logo+Playboy.JPG",
     "name": "Playboy Magazine"
   },
   {
     "id": 5,
+    "image_url": "http://www.manager.co.th/Marsmag/images/mars-logo.png",
     "name": "Mars Magazine"
   }
 ]
