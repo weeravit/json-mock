@@ -1,6 +1,7 @@
 {
   "status": "success",
   "data": {
-    "username": "0812345678"
+    "phone_number": "0812345678",
+    "name": "นายทดสอบ ทดสอบ"
   }
 }

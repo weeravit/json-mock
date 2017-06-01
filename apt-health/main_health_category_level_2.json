@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 8,
+      "parent_id": 2,
+      "name": "การทำงานของไต",
+      "isLastNode": true
+    },
+    {
+      "id": 5,
+      "parent_id": 2,
+      "name": "ความสมบูรณ์ของเม็ดเลือด",
+      "isLastNode": true
+    },
+    {
+      "id": 6,
+      "parent_id": 2,
+      "name": "กลุ่มไขมัน",
+      "isLastNode": true
+    },
+    {
+      "id": 7,
+      "parent_id": 2,
+      "name": "การทำงานของตับ",
+      "isLastNode": true
+    },
+    {
+      "id": 9,
+      "parent_id": 2,
+      "name": "ความเสี่ยงโรคเก๊าท์",
+      "isLastNode": true
+    }
+  ]
+}

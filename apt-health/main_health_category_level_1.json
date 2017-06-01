@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 2,
+      "parent_id": 0,
+      "name": "ผลตรวจทางห้องปฏิบัติการ",
+      "isLastNode": false
+    },
+    {
+      "id": 1,
+      "parent_id": 0,
+      "name": "ตรวจร่างกายตามปัจจัยเสี่ยงในการทำงาน",
+      "isLastNode": false
+    },
+    {
+      "id": 3,
+      "parent_id": 0,
+      "name": "ผลตรวจปัสสาวะ อุจาระ",
+      "isLastNode": false
+    },
+    {
+      "id": 4,
+      "parent_id": 0,
+      "name": "ตรวจคัดกรองโรคมะเร็ง",
+      "isLastNode": false
+    }
+  ]
+}

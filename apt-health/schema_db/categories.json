@@ -1,0 +1,25 @@
+{
+    "id": "8",
+    "parent_id": "2", // ถ้าเป็น main category ค่า parentId คือ 0
+    "name": "การทำงานของไต",
+    "field_groups": [
+        {
+            "name": "BUN", // เป็นชื่อที่เราอยากให้แสดงผลบน mobile
+            "result": "BUN", // ชื่อ field ใน excel
+            "sum_up": "สรุป  BUN", // ชื่อ field ใน excel
+            "suggestion": "เสนอแนะ  BUN cre" // ชื่อ field ใน excel
+        },
+        {
+            "name": "Creatinine",
+            "result": "CRE",
+            "sum_up": "สรุป   Cre",
+            "suggestion": "เสนอแนะ  BUN cre"
+        }
+        // ...
+    ]
+    // ถ้ายังไม่ใช่ category สุดท้าย ค่า field_groups คือ array ว่าง []
+    // ถ้าเป็น category สุดท้ายแล้ว ค่า field_groups จะมี object array ต่างๆ สำหรับเก็บชื่อ field ที่เราจะเอาไว้ดึงข้อมูล
+    // เหตุผลที่ทำแบบนี้เพราะว่า excel ที่เขาให้เรา import ข้อมูล มันอาจจะมี field อย่างอื่นที่ถูกเพิ่มมาในอนาคต
+    // ประมาณว่า การทำงานของไต วันนี้ใน excel ยังไม่มีค่า "Hb"
+    // แต่จู่ๆ เขาเพิ่ม Hb เข้ามาสำหรับการตรวจนี้ เราก็แค่เข้าไปเพิ่ม field_groups นี้ให้สำหรับ category นั้นๆ สบาย hair~~~
+}
