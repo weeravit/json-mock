@@ -4,24 +4,28 @@
     {
       "id": 2,
       "parent_id": 0,
+      "type": "body",
       "name": "ผลตรวจทางห้องปฏิบัติการ",
       "isLastNode": false
     },
     {
       "id": 1,
       "parent_id": 0,
+      "type": "body",
       "name": "ตรวจร่างกายตามปัจจัยเสี่ยงในการทำงาน",
       "isLastNode": false
     },
     {
       "id": 3,
       "parent_id": 0,
+      "type": "body",
       "name": "ผลตรวจปัสสาวะ อุจาระ",
       "isLastNode": false
     },
     {
       "id": 4,
       "parent_id": 0,
+      "type": "body",
       "name": "ตรวจคัดกรองโรคมะเร็ง",
       "isLastNode": false
     }

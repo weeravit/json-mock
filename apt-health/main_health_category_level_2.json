@@ -2,32 +2,44 @@
   "status": "success",
   "data": [
     {
+      "id": 2,
+      "parent_id": 0,
+      "type": "header",
+      "name": "ผลตรวจทางห้องปฏิบัติการ",
+      "isLastNode": false
+    },
+    {
       "id": 8,
       "parent_id": 2,
+      "type": "body",
       "name": "การทำงานของไต",
       "isLastNode": true
     },
     {
       "id": 5,
       "parent_id": 2,
+      "type": "body",
       "name": "ความสมบูรณ์ของเม็ดเลือด",
       "isLastNode": true
     },
     {
       "id": 6,
       "parent_id": 2,
+      "type": "body",
       "name": "กลุ่มไขมัน",
       "isLastNode": true
     },
     {
       "id": 7,
       "parent_id": 2,
+      "type": "body",
       "name": "การทำงานของตับ",
       "isLastNode": true
     },
     {
       "id": 9,
       "parent_id": 2,
+      "type": "body",
       "name": "ความเสี่ยงโรคเก๊าท์",
       "isLastNode": true
     }
